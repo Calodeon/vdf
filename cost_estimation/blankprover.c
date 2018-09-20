@@ -1,4 +1,4 @@
-// gcc blankprover.c -o blankprover
+// gcc blankprover.c -o blankprover -O2
 
 #include <stdio.h>
 #include <stdlib.h>
